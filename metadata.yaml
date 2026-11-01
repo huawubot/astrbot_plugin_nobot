@@ -1,0 +1,7 @@
+name: astrbot_plugin_nobot
+display_name: 找人机
+desc: 人机去死！找出并禁言群里的人机!
+help: 略
+version: v1.0.8
+author: Zhalslar
+repo: https://github.com/Zhalslar/astrbot_plugin_nobot
